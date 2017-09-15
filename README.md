@@ -1,6 +1,6 @@
 # XSS Me
 
-A simple web application to learn about Cross-Site Scripting (XSS)
+A simple web application to learn about [Cross-Site Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting) (XSS)
 
 ## Screenshot
 
@@ -9,3 +9,7 @@ A simple web application to learn about Cross-Site Scripting (XSS)
 ## Demo video
 
 https://www.youtube.com/watch?v=pltxnGlGFMc
+
+## References
+
+https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
