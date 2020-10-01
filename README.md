@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=pltxnGlGFMc
 ## References
 
 https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+And by following the given steps you can do it. And it looks very amazing.so do it.
